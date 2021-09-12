@@ -1,2 +1,2 @@
-# wordpress
-wordpress_portfolio
+# my_portfolio
+Akash Patel Portfolio Website
